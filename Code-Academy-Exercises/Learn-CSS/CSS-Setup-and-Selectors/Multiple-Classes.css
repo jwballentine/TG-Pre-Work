@@ -1,0 +1,16 @@
+p {
+      font-family: Arial;
+  }
+
+h1 {
+  		color: maroon;
+}
+
+.title{
+  		color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+/*I added uppercase to the css file and to the h1 element in the html file*/
