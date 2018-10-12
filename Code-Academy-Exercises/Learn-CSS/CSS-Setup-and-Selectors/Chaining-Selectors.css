@@ -1,0 +1,32 @@
+p {
+      font-family: Arial;
+  }
+
+h1 {
+  		color: maroon;
+}
+
+.title{
+  		color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time{
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+/*I chained a selector for certain elements that were h2s with a destination class*/
